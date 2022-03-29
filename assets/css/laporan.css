@@ -1,0 +1,37 @@
+html,body{
+        font-family: "Calibri";
+		font-size:auto;
+		margin:3px;
+		}
+		#laporan{
+		color:black;
+		padding:6px 2px;
+		}
+		#laporan table{
+		border-collapse:collapse;
+		border: 1px solid;
+		font-size:9px;
+		}
+		#laporan table th{
+		background:F1E7E8;
+		font-weight:bold;
+		vertical-align:middle;
+		}
+
+		#laporan table td{
+		background:c8bfbf;
+		}
+
+		#laporan table bp{
+		border:black;
+		}
+		.pagebreak{
+		visibility:visible;
+		page-break-after:always;
+		}
+		.garis{
+			border:solid 0.5px;
+		}
+		.nongaris{
+			border: none;
+		}
